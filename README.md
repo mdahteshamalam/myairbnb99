@@ -53,7 +53,3 @@ This is a Spring Boot REST API backend project with user registration and login 
 
 5. **Test with Postman**:
    - Use Postman to test the API endpoints for user registration, login, and other features.
-
---- 
-
-Let me know if you need further adjustments!
